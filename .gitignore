@@ -42,3 +42,6 @@ notification.mp3
 /cache
 trace.json
 /sysinfo-????-??-??-??-??.json
+/venv/
+*.venv
+/venv_benchmark_before  

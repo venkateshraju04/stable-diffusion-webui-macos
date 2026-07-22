@@ -1,0 +1,5 @@
+# Benchmark results - local only
+*.json
+*.png
+comparison.md
+!.gitignore
